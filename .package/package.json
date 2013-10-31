@@ -1,0 +1,14 @@
+{
+  "title": "Album",
+  "description": "An album component for Mokuji.",
+  "type": "manual",
+  "dbUpdates": true,
+  "versions": [
+    {
+      "version": "0.0.1-alpha",
+      "date": "2013-10-31",
+      "description": "Created the new component.",
+      "changes": []
+    }
+  ]
+}
